@@ -1,0 +1,40 @@
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.csprojResolveAssemblyReference.cache
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\Service.Pattern.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.dll
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\Service.Pattern.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.xml
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.pdb
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.exe
+C:\Users\syrine\Downloads\MyFinanceFinal - V2.0 - 2015 - Copie\MyFinanceFinal - V2.0 - 2015\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.exe
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\Service.Pattern.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.dll
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Domain.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Service.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\Service.Pattern.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.xml
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Data.pdb
+C:\Users\Faycel M'rabet\Documents\Visual Studio 2015\Projects\MyFinanceFinal\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.csprojResolveAssemblyReference.cache
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\bin\Debug\MyFinance.Console.exe.config
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.exe
+C:\Users\Faycel M'rabet\Documents\GitHub\MyFinance-Architecture-n-tiers-.net\MyFinance\MyFinance.Console\obj\Debug\MyFinance.Console.pdb
